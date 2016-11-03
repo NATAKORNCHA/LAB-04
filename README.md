@@ -81,18 +81,12 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
-<hr>
-<img src="https://github.com/NATAKORNCHA/LAB-04/blob/master/imgs/LAB4-4.png?raw=true">
-<hr>
-<hr>
-<hr>
+
 
 ###คำถาม 4.2
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
-<hr>
+
 #เป็นไปตามที่คิด เพราะว่า หากคำสั่ง Write เป็นการเขียนธรรมดา คำสั่ง writeLine น่าจะเป็นการเขียนแล้วเปลี่ยนไปบรรทัดใหม่
 <hr>
 <hr>
